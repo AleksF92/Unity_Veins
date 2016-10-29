@@ -1,7 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{24CDD0DC-ECA9-D59D-1631-E587D9586BE1}") = "Veins", "Assembly-CSharp.csproj", "{F6F2E292-B370-6BB6-2A03-A703EA85E207}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veins.CSharp", "Veins.CSharp.csproj", "{53D731BA-843C-3ADE-99D9-69FE05157AB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F6F2E292-B370-6BB6-2A03-A703EA85E207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F6F2E292-B370-6BB6-2A03-A703EA85E207}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F6F2E292-B370-6BB6-2A03-A703EA85E207}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F6F2E292-B370-6BB6-2A03-A703EA85E207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D731BA-843C-3ADE-99D9-69FE05157AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D731BA-843C-3ADE-99D9-69FE05157AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D731BA-843C-3ADE-99D9-69FE05157AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D731BA-843C-3ADE-99D9-69FE05157AB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
